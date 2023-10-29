@@ -15,6 +15,7 @@
 
     Read about `superagent`, for fetching an api and using npm, install the mentioned library. You can use the 
     following resource for better understanding.
+    https://www.npmjs.com/package/superagent
 
   ***STEP 3:***
 
